@@ -32,7 +32,7 @@ Ensure you have the following installed on your system:
 ### 📥 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mohamed2107/Docker-On--Hand.git
+   git clone git@github.com:ahmedkhamees37/DockerPilot.git
    cd Docker-On--Hand
    ```
 2. Install dependencies:
