@@ -1,0 +1,11 @@
+services:
+  Container 1:
+    image: alpine:latest
+    container_name: Container 1
+    networks:
+    - null
+    volumes: []
+    ports:
+    - '80'
+networks: {}
+volumes: {}
