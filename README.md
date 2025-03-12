@@ -1,7 +1,7 @@
  # 🚀 DockerPilot
 
 ## 📝 Overview
-Docker-On-Hand is a graphical user interface (GUI) tool designed to simplify the process of managing Docker containers, networks, and volumes. This project provides an interactive environment where users can visually create, configure, and deploy containerized applications using Docker Compose.
+DockerPilot is a graphical user interface (GUI) tool designed to simplify the process of managing Docker containers, networks, and volumes. This project provides an interactive environment where users can visually create, configure, and deploy containerized applications using Docker Compose.
 
 ## 🎯 Features
 - 🖥️ **Graphical User Interface**: Intuitive GUI for managing Docker components.
@@ -12,7 +12,7 @@ Docker-On-Hand is a graphical user interface (GUI) tool designed to simplify the
 
 ## 📂 Project Structure
 ```
-Docker-On-Hand/
+DockerPilot/
 ├── left_bar.py        # Sidebar UI for draggable components (Containers, Volumes, Networks)
 ├── MyApp.py           # Main application logic and Docker Compose generation
 ├── network.py         # Network management and interaction
@@ -33,7 +33,7 @@ Ensure you have the following installed on your system:
 1. Clone the repository:
    ```bash
    git clone git@github.com:ahmedkhamees37/DockerPilot.git
-   cd Docker-On--Hand
+   cd DockerPilot
    ```
 2. Install dependencies:
    ```bash
